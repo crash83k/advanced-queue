@@ -1,0 +1,11 @@
+{
+  "name": "advanced-queue",
+  "version": "1.0.0",
+  "description": "Wraps Stephen Morley's queue constructor with a way to monitor and trigger an event if the queue is scaling too large.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Kernes",
+  "license": "ISC"
+}
